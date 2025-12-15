@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\ArraysProject.csproj": {}
+    "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\SEMANA-2\\ArraysProject.csproj": {}
   },
   "projects": {
-    "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\ArraysProject.csproj": {
+    "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\SEMANA-2\\ArraysProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\ArraysProject.csproj",
+        "projectUniqueName": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\SEMANA-2\\ArraysProject.csproj",
         "projectName": "ArraysProject",
-        "projectPath": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\ArraysProject.csproj",
+        "projectPath": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\SEMANA-2\\ArraysProject.csproj",
         "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\obj\\",
+        "outputPath": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\SEMANA-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
