@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/arraysmatrices.cs/bin/Debug/net9.0/arraysmatrices.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/arraysmatrices.cs",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        }
+    ]
+}

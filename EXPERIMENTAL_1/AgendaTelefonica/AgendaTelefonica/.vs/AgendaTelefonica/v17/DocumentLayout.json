@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\EXPERIMENTALES\\EXPERIMENTAL-1\\AgendaTelefonica\\AgendaTelefonica\\",
+  "WorkspaceRootPath": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A04970B-9A11-494B-AC8B-8FF652291399}|AgendaTelefonica.csproj|d:\\universidad-documentos\\tercer-semestre\\estructura-de-datos-c\\experimentales\\experimental-1\\agendatelefonica\\agendatelefonica\\contactofamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A04970B-9A11-494B-AC8B-8FF652291399}|AgendaTelefonica.csproj|solutionrelative:contactofamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\AgendaTelefonica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgendaTelefonica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A04970B-9A11-494B-AC8B-8FF652291399}|AgendaTelefonica.csproj|d:\\universidad-documentos\\tercer-semestre\\estructura-de-datos-c\\experimentales\\experimental-1\\agendatelefonica\\agendatelefonica\\contactoamigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A04970B-9A11-494B-AC8B-8FF652291399}|AgendaTelefonica.csproj|solutionrelative:contactoamigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A04970B-9A11-494B-AC8B-8FF652291399}|AgendaTelefonica.csproj|d:\\universidad-documentos\\tercer-semestre\\estructura-de-datos-c\\experimentales\\experimental-1\\agendatelefonica\\agendatelefonica\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A04970B-9A11-494B-AC8B-8FF652291399}|AgendaTelefonica.csproj|solutionrelative:contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\Contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A04970B-9A11-494B-AC8B-8FF652291399}|AgendaTelefonica.csproj|d:\\universidad-documentos\\tercer-semestre\\estructura-de-datos-c\\experimentales\\experimental-1\\agendatelefonica\\agendatelefonica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A04970B-9A11-494B-AC8B-8FF652291399}|AgendaTelefonica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\ContactoFamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContactoFamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\ContactoAmigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContactoAmigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +30,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContactoAmigo.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\EXPERIMENTALES\\EXPERIMENTAL-1\\AgendaTelefonica\\AgendaTelefonica\\ContactoAmigo.cs",
-              "RelativeDocumentMoniker": "ContactoAmigo.cs",
-              "ToolTip": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\EXPERIMENTALES\\EXPERIMENTAL-1\\AgendaTelefonica\\AgendaTelefonica\\ContactoAmigo.cs",
-              "RelativeToolTip": "ContactoAmigo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AgendaTelefonica.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\AgendaTelefonica.cs",
+              "RelativeDocumentMoniker": "AgendaTelefonica.cs",
+              "ToolTip": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\AgendaTelefonica.cs",
+              "RelativeToolTip": "AgendaTelefonica.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T00:33:12.136Z",
+              "WhenOpened": "2025-12-22T01:34:28.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ContactoAmigo.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\ContactoAmigo.cs",
+              "RelativeDocumentMoniker": "ContactoAmigo.cs",
+              "ToolTip": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\ContactoAmigo.cs",
+              "RelativeToolTip": "ContactoAmigo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T00:33:12.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ContactoFamilia.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\EXPERIMENTALES\\EXPERIMENTAL-1\\AgendaTelefonica\\AgendaTelefonica\\ContactoFamilia.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\ContactoFamilia.cs",
               "RelativeDocumentMoniker": "ContactoFamilia.cs",
-              "ToolTip": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\EXPERIMENTALES\\EXPERIMENTAL-1\\AgendaTelefonica\\AgendaTelefonica\\ContactoFamilia.cs",
+              "ToolTip": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\ContactoFamilia.cs",
               "RelativeToolTip": "ContactoFamilia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,9 +74,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Contacto.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\EXPERIMENTALES\\EXPERIMENTAL-1\\AgendaTelefonica\\AgendaTelefonica\\Contacto.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\Contacto.cs",
               "RelativeDocumentMoniker": "Contacto.cs",
-              "ToolTip": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\EXPERIMENTALES\\EXPERIMENTAL-1\\AgendaTelefonica\\AgendaTelefonica\\Contacto.cs",
+              "ToolTip": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\Contacto.cs",
               "RelativeToolTip": "Contacto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,11 +85,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\EXPERIMENTALES\\EXPERIMENTAL-1\\AgendaTelefonica\\AgendaTelefonica\\Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\EXPERIMENTALES\\EXPERIMENTAL-1\\AgendaTelefonica\\AgendaTelefonica\\Program.cs",
+              "ToolTip": "D:\\UNIVERSIDAD-DOCUMENTOS\\TERCER-SEMESTRE\\ESTRUCTURA-DE-DATOS-C\\ESTRUCTURA-DE-DATOS-REPOSITORIO\\EXPERIMENTAL_1\\AgendaTelefonica\\AgendaTelefonica\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
